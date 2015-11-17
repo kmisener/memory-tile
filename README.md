@@ -1,6 +1,6 @@
 # _Memory-Tile_
 
-##### _A simple memory-tile game, in which the user tries to match tiles in the shortest amount of turns possible._
+##### _A simple memory-tile game, in which the user tries to match tiles in the shortest number of turns possible._
 
 #### By _**Kyle Misener**_
 
