@@ -7,8 +7,8 @@
 ## Description
 
 _Memory-Tile game application is a simple memory game based on North American popular culture. The user can select a deck they wish to play from the menu.
- The app will then randomly shuffle the 30 card deck and place the cards on the game board face down. The user will choose a card the card will then be flipped
- over for the user to see. Next the user will choose another card on the game board trying to match the first card chosen. If the card are a match they will
+ The app will then randomly shuffle the 30 card deck and place the cards on the game board face down. The user will choose a card. The card will then be flipped
+ over for the user to see. Next the user will choose another card on the game board trying to match the first card chosen. If the cards are a match they will
  remain flipped over and will no longer be selectable. If they are not a match they will both be flipped back over. This will continute until the user has
  matched all the cards in the deck._
 
