@@ -1,0 +1,47 @@
+/*
+=====================================================
+                    BASE
+=====================================================
+*/
+
+h1 {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 0px;
+}
+
+header {
+  background-color: white;
+}
+
+body {
+  background-color: grey;
+}
+
+#memory-board {
+  height: 900px;
+  background: url(../img/3d_Audience.jpg);
+  padding-left: 2.5%;
+}
+
+/*
+===========================================================
+                     Component
+===========================================================
+*/
+
+.btn {
+  height: 100%;
+  margin-top: 16px;
+  border: 2px solid;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
