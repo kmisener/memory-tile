@@ -61,3 +61,13 @@ body {
   background-color: black;
   color: white;
 }
+
+.modal-header {
+  background-color: black;
+  color: white;
+}
+
+.close {
+  color: white;
+  opacity: 1;
+}
